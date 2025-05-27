@@ -1,3 +1,6 @@
 [submodule "backstage"]
 	path = backstage
 	url = git@github.com:PDAxh/backstage.git
+[submodule "classroom-placement"]
+	path = classroom-placement
+	url = git@github.com:PDAxh/classroom-placement.git
